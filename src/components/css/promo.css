@@ -1,0 +1,21 @@
+/* promo.css */
+.scrollable-container {
+  width: 100%;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.wrapper {
+  gap: 10px;
+  display: inline-block; /* Ini memungkinkan konten berjajar secara horizontal */
+}
+
+.item {
+  display: inline-block;
+  width: 50px; /* Sesuaikan lebar kotak sesuai kebutuhan Anda */
+  height: 160px; /* Sesuaikan tinggi kotak sesuai kebutuhan Anda */
+  margin-right: 10px; /* Jarak antara kotak */
+  background-color: rgb(134, 136, 236);
+  border-radius: 20px;
+  width: 280px;
+}

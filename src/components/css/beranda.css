@@ -1,0 +1,57 @@
+.box-luar {
+  gap: 4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: ;
+}
+.box-dalam {
+  margin-left: 60px;
+  margin-right: 50px;
+  width: 90%;
+  padding: 10px;
+}
+.box-atas {
+  background-color: rgb(237, 240, 243);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  height: 110px;
+  border-top: 30px;
+  width: 100%;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.box-bawah {
+  background-color: rgb(237, 240, 243);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  height: 110px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  width: 100%;
+}
+.notifikasi-logo {
+  position: center;
+  width: 38px;
+  padding-bottom: 9.5px;
+  display: block;
+  text-align: end;
+  justify-content: center;
+  text-decoration: none;
+  align-content: center;
+  size: 150px;
+}
+
+.box-bawah a {
+  text-decoration: none;
+  color: black;
+}
+.box-atas a {
+  text-decoration: none;
+  color: black;
+}

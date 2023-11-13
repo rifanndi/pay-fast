@@ -1,0 +1,28 @@
+.box1{
+       
+}
+
+.box2{
+
+        height: 80px;
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        text-align: center;
+}
+.box-utas{
+        
+display: flex;
+align-items: center;
+gap: 50px;
+text-decoration: none;
+justify-items: center;
+margin: 35%;
+
+
+}
+
+.box-utas a{
+        text-decoration: none;
+        color: black;
+}

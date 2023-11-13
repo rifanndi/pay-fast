@@ -1,0 +1,39 @@
+.app{
+        background-color: rgb(244, 248, 250);
+        height: 100vh;
+        
+        
+}
+.Navbarhome{
+position: fixed;
+width: 100%;
+
+
+
+}
+.fitur{
+       padding-top: 60px;
+       
+}
+
+.beranda{
+        margin-top: 5px;
+}
+.promo{
+margin-top: 20px;
+}
+.f{
+        
+        margin-left: 10px;
+        margin-bottom: 5px;
+        color: rgb(2, 1, 0);
+}
+.foter{
+        width: 100%;
+        margin-top: 10.7%;
+        position: fixed;
+        border-top: 20px;
+        border-color: black;
+        
+}
+

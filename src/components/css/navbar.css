@@ -1,0 +1,24 @@
+
+/*nav  */
+.Navhome{
+        background-color: rgb(54, 57, 230);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      
+        right: 0;
+        left: 0;
+}
+.notifikasi-logo {
+      width: 6px;
+}
+.logo{
+        font-size: 20px;
+        font-family: 'Cabin', sans-serif;
+        color: aliceblue;
+}
+/*nav home end*/
